@@ -1,2 +1,2 @@
-# ndiye.github.io
+# Ndiye.github.io
 Tourism site
