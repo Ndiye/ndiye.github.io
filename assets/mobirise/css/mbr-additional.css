@@ -1852,6 +1852,28 @@ a {
 .cid-t1UHTw3na1 .row {
   justify-content: center;
 }
+.cid-t700j0GK6v {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+@media (min-width: 1500px) {
+  .cid-t700j0GK6v .container {
+    max-width: 1400px;
+  }
+}
+.cid-t700j0GK6v .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-t700j0GK6v .card-wrapper {
+  margin-top: 3rem;
+}
+.cid-t700j0GK6v .row {
+  justify-content: center;
+}
 .cid-t1Ul3WBCPR {
   z-index: 1000;
   width: 100%;
